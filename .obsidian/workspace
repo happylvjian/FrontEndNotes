@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "74769390b2cf1fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d0b583d31ad762",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "351188288fe03509",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67f3a60ab196242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3c6610ff252ace",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f110a546e73be655",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e8868819832ef47",
+    "type": "split",
+    "children": [
+      {
+        "id": "898725d704613569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb3179bf64f8ecc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6d0b583d31ad762",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "vue/vue.md"
+  ]
+}
