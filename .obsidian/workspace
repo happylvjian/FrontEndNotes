@@ -7,8 +7,12 @@
         "id": "b6d0b583d31ad762",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "HTML知识/Html杂记.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML知识/Html杂记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,8 @@
   },
   "active": "b6d0b583d31ad762",
   "lastOpenFiles": [
-    "Untitled.md",
-    "vue/vue.md"
+    "HTML知识/Html杂记.md",
+    "Vue/vue.md",
+    "Untitled.md"
   ]
 }
