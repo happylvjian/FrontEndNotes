@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d0b583d31ad762",
+        "id": "1dc67d92b5c21159",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML知识/Html杂记.md",
+            "file": "CSS/CSS杂记.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML知识/Html杂记.md",
+                "file": "CSS/CSS杂记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +84,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 101.20000457763672
   },
-  "active": "b6d0b583d31ad762",
+  "active": "1dc67d92b5c21159",
   "lastOpenFiles": [
-    "HTML知识/Html杂记.md",
-    "Vue/vue.md",
+    "CSS/CSS杂记.md",
+    "Vue/Vue杂记.md",
+    "HTML/Html杂记.md",
     "Untitled.md"
   ]
 }
